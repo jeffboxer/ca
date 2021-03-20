@@ -1,0 +1,160 @@
+body {
+background-color: #e5e5e5;
+}
+
+#ftext {margin-top: 0;}
+
+h1 {text-align: center;
+    margin-bottom: 3%;
+    margin-top: 5%;
+   }
+
+ p {
+    font-style: normal;
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: 110%;
+    margin-left: 10%;
+    margin-right: 15%;
+    padding-top: 25px;
+    color: rgb(61, 60, 60);
+    
+    }  
+
+    pre {
+      font-style: normal;
+      text-align: justify;
+      font-family:Arial, Helvetica, sans-serif; 
+      font-size: 110%;
+      margin-left: 10%;
+      margin-right: 15%;
+      padding-top: 25px;
+      color: rgb(61, 60, 60);
+      
+      }  
+
+.jheader { 
+    height: 7%; /* Full-height: remove this if you want "auto" height */
+    width: 100%; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color:black; /* Black */
+
+}
+.navigation { 
+    height: 7%; /* Full-height: remove this if you want "auto" height */
+    width: 100%; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    top: 7.4%; /* Stay at the top */
+    left: 0;
+
+    background-color:black; /* Black */
+    text-align: center;
+
+
+
+
+}
+
+
+
+     ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: rgb(0, 0, 0);
+        align-items: center;
+      }
+      
+      li{
+        float: left;
+       align-items: center;
+       padding-left: 50px;
+
+         }
+
+       #ftext{   
+
+        color: white;
+        text-align: center;
+        vertical-align: middle;
+        padding: 14px 16px;
+        font-size: 25px;
+
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align:right;
+        padding: 1em;
+        text-decoration: none;
+        align-items: center;
+        margin-left: 15px;
+        text-align: center;
+   
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: rgb(11, 0, 68);
+      }
+
+      .jumbotron {
+
+        margin-top: 8%;
+        background-color: white;
+        height: auto;
+        width: 90%;
+        margin-left: 5%;
+
+
+      }
+
+      #signature {
+          text-align: center;
+          font-weight: bold;
+          font-style: italic;
+          color: gray;
+    }
+
+img {
+
+        margin-left:40%;
+
+}
+
+#j2 {
+
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: 90%;
+    margin-left: 5%;
+
+
+  }
+
+  .html {
+      background-color: black;
+      color: rgb(255, 255, 255);
+
+    }
+    .css {
+        background-color: rgb(190, 190, 190);
+        color: black;
+  
+      }
+
+      .center {
+        margin-left: 40%;
+        margin-right: auto;
+      }
+
+      .center2 {
+        margin-left: 10%;
+        margin-right: auto;
+      }
+   
